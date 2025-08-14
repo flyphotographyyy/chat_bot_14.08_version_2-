@@ -1,0 +1,14 @@
+numpy>=1.26.4
+pandas>=2.1.4
+yfinance>=0.2.52
+feedparser>=6.0.10
+pytz>=2024.1
+requests>=2.32.3
+streamlit>=1.36.0
+streamlit-autorefresh>=1.0.1
+vaderSentiment>=3.3.2
+textblob>=0.18.0.post0
+plotly>=5.24.0
+pandas_market_calendars>=4.4.0
+PyYAML>=6.0.1
+
